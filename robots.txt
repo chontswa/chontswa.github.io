@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chontswa.github.io/sitemap.html.gz
+Sitemap: https://chontswa.github.io/app/sitemap.html.gz
+Sitemap: https://chontswa.github.io/assets/sitemap.html.gz
+Sitemap: https://chontswa.github.io/css/sitemap.html.gz
+Sitemap: https://chontswa.github.io/includes/sitemap.html.gz
+Sitemap: https://chontswa.github.io/item/sitemap.html.gz
+Sitemap: https://chontswa.github.io/src/sitemap.html.gz
